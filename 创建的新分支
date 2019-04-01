@@ -1,0 +1,21 @@
+
+# 这是新分支
+  - 新分支测试
+
+
+## 新建一个名叫 new的分支
+git branch new
+
+
+## 切换到 new分支
+git checkout new
+
+
+## 提交
+git add .
+
+git commit -m "新分支测试"
+
+
+## 推到远端 new分支上
+git push origin new
